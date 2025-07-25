@@ -1,0 +1,27 @@
+.cap-port {
+  color: #2c3e50;
+}
+.item-port img{
+    width: 100%;
+}
+.line-port{
+  width: 100px;
+  border-top: 5px #2c3e50 solid;
+}
+.layer-port{
+
+  background-color: #1abc9cbc;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  opacity: 0;
+  transition: all 0.7s;
+  cursor: pointer;
+  font-size: 60px;
+}
+.layer-port:hover{
+  opacity: 1;
+
+}

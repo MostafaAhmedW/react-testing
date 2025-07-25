@@ -1,0 +1,17 @@
+.error{
+
+    background-image: url(../../../public/image/Error-404.png);
+    background-position: center center;
+    background-size: cover;
+    
+
+}
+.error h1{
+    font-size: 100px;
+}
+.error h3{
+    font-size: 30px;
+}
+.error p{
+    font-size: 19px;
+}
